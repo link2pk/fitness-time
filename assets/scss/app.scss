@@ -1,0 +1,21 @@
+
+//your custom fonts here
+@import "fonts";
+
+
+// your custom variables to override default Bootstrap variables
+@import "variables";
+
+//Include parts of Bootstrap
+@import "bootstrap-includes";
+
+
+
+//slick slider 
+@import "slick";
+
+//flip-card
+@import "flip-card"; 
+
+//app styles here
+@import "custom";
